@@ -1,0 +1,28 @@
+.SeznamZelja {
+
+}
+
+.oknoSeznam{
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin:20px;
+    padding:20px;
+    background: lightgray;
+}
+
+.dodaneZelje{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+}
+
+label{
+    padding:10px;
+}
+button{
+    margin :10px !important;
+}
